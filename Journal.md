@@ -41,3 +41,13 @@ Ok, I think the schematic is done
 I think I'm done for today. I made the schematic, and I'm 90% sure it will work
 Tomorrow it will be PCB time.
 
+
+Day 2 
+
+Im cooked i couldn't work on friday because i had to attend a fraternity ceremony so i need to finish this while im on the train back to my parents which means i will need to pull an all nighter.
+I just got my student laptop and im trying to set it up but im still not used to its layout which means im not as efficient when working but ill have to get over it
+
+its challenging to work while its so cold and when the train is moving but i think ill manage
+
+Because of bad weather i couldnt make it to my parents :( but i was able to complete the pcb on the train now whats left is to write the readme export
+and format everything nicely as well as the BON headache
