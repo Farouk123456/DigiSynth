@@ -51,3 +51,51 @@ its challenging to work while its so cold and when the train is moving but i thi
 
 Because of bad weather i couldnt make it to my parents :( but i was able to complete the pcb on the train now whats left is to write the readme export
 and format everything nicely as well as the BON headache
+
+Day 3 
+
+wow i was so sleep deprived i actually forgot i need to write the code for the pico
+
+GP0 C
+GP1 C#
+GP2 D
+GP3 D#
+GP4 E
+GP5 F
+GP6 F#
+GP7 G
+GP8 G#
+GP9 A
+
+GP10 SCLK
+GP11 LRCK
+GP12 SDIN
+GP13 MCLK
+
+GP14 A#
+GP15 B
+
+GP16 SINE
+GP17 SQUARE
+GP18 SAWTOOTH
+
+GP19 MIDI OR OUTPUT
+
+GP27 Volume controll
+GP28 Pitch controll
+
+wow im having a lot of throuble with trying to pragramm the pico 2 pio doesnt support it for some reason arduino ide v2 isn't starting so im resorting to go to the legacy ide 
+hopefully there i will be able to write a sketch also i think i forot to add 1 Mohm resistors the my capacitive touch pads
+wth it turns out pio does support it? whatever now i can write the sketch after i add the 1 Mohm resistors
+
+ok how i want this to work is that the pico sings a tune on power up on toggle from midi to output and vice versa i also want it to output a sound
+I think i should use a higher level abstraction for i2s found picosound 
+for now ill only let one note play  at a time no interference/harmony :(
+    i dont get it theres an error saying i need to add a config file. i add it it still errors even intellisense hides the error beause it shouldn't run but it just wont compile 
+
+ok i gues the fix is to copy the config file into the library's source folder whicj doesn't make any sense at all
+
+okay now all i need to do is implement the midi usb part.
+was actually suprisingly easy
+
+aand i forgot to unpause the time lapse
